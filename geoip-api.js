@@ -31,8 +31,7 @@ if (Meteor.isServer) {
 
   Meteor.methods({
     "getip": function(){
-      console.log(this.connection);
-      return  this.connection.httpHeaders['x-forwarded-for'];
+      return this.connection.httpHeaders['x-forwarded-for'];
     }
   })
 }
