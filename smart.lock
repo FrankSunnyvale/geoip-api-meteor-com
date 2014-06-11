@@ -1,0 +1,26 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "geoip": {},
+      "iron-router": {}
+    },
+    "packages": {
+      "geoip": {
+        "git": "https://github.com/ServiceLocale/GeoIP.git",
+        "tag": "v0.1.1",
+        "commit": "0861e13b8b961b56fbb1651e9ddc3cd0398228da"
+      },
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.7.1",
+        "commit": "d1ffb3f06ea4c112132b030f2eb1a70b81675ecb"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.4",
+        "commit": "b40e9b0612329288d75cf52ad14a7da64bb8618f"
+      }
+    }
+  }
+}

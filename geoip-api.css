@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+.full-width {    width: 100%;  }
+.centered { text-align: center; }
+.wrapper {
+  width: 360px;
+  position: absolute;
+  margin: 0 0 0 -180px;
+  left: 50%;
+}
+
+
