@@ -1,6 +1,6 @@
 {
   "packages": {
-    "geoip": {},
-    "iron-router": {}
+    "iron-router": {},
+    "geoip": {}
   }
 }
