@@ -6,3 +6,7 @@
 standard-app-packages
 bootstrap
 iron:router
+meteorhacks:npm
+
+
+npm-container
