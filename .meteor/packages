@@ -5,5 +5,4 @@
 
 standard-app-packages
 bootstrap
-iron-router
-geoip
+iron:router
