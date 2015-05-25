@@ -1,5 +1,3 @@
-Router.route('/', function () {
-  this.render('geoip-api-main', {
-
-  });
+Router.route('/', {
+  template: 'geoip-api-main'
 });
